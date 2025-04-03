@@ -1,89 +1,73 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Seth Tucker's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Seth Tucker
+Programmer, Business Analyst.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="thesethtucker@gmail.com">thesethtucker@gmail.com</a>
+| <a href="https://www.linkedin.com/in/seth-tucker19/">My LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Student at Brigham Young University - Idaho
 
-### Specialized in
+### Studying
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Business Analytics, with a Minor in Data Science
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Analyzing data with queries using MySQL, Python, and advanced Microsoft Excel features
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019`
+__Bowman Prep Academy (High School Graduation)__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`Fall 2020 - Present`
+__Brigham Young University - Idaho__
 
 
+## Achievements
 
-## Awards
+`October 2016` Eagle Scout
 
-`2012`
-President, *Royal Society*, London, UK
+`Spring 2017` Recognized as hardest worker on Outdoor Track Team, Northern Guilford High School
 
-Associate, *French Academy of Science*, Paris, France
+`Winter 2017-18` Captain of Indoor Track Team, Northern Guilford High School
 
 
 
-## Publications
+## Past Work Experience
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Sportswriter | Post Register | March 2024 - December 2024
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Write articles about high school sports by researching teams, players, and coaches before events, attending and viewing the sporting event, and interviewing players and coaches 
 
-`1669`
-Lectiones opticæ.
+Analyze sports statistics to find interesting insights to share in articles 
 
-etc. etc. etc.
+### LEAD ASSOCIATE | DESERET INDUSTRIES | JANUARY 2022 – APRIL 2023
 
-### Patents
+Worked on the receiving end of donations, greeting and helping donors unload their vehicles and placing their donations on carts, baled unsold and unsellable clothing, operated forklift to move bales and pallets of items around, as well as priced and cleaned large items for the sales floor.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### SPORTSWRITER INTERNSHIP | CAROLINA COBRAS | APRIL 2018 – APRIL 2019 
 
+Responsible for the majority of written content on the Cobras’ website including writing game previews, post-game recaps, articles for the game-day program, and player signings.  
 
-## Occupation
+Interviewed coaches and players to bolster these articles and developed relationships with these people to get inside scoops and create compelling content. 
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Appeared on the halftime show of broadcasts to provide player insights to thousands of viewers.
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2025 -->
